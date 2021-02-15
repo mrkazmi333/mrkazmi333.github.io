@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a1a03d7.chunk.css",
+    "main.js": "/static/js/main.ef291c28.chunk.js",
+    "main.js.map": "/static/js/main.ef291c28.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.516ddbfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.516ddbfe.js.map",
+    "static/js/2.1be86424.chunk.js": "/static/js/2.1be86424.chunk.js",
+    "static/js/2.1be86424.chunk.js.map": "/static/js/2.1be86424.chunk.js.map",
+    "static/css/3.3a26ebde.chunk.css": "/static/css/3.3a26ebde.chunk.css",
+    "static/js/3.e63b2a01.chunk.js": "/static/js/3.e63b2a01.chunk.js",
+    "static/js/3.e63b2a01.chunk.js.map": "/static/js/3.e63b2a01.chunk.js.map",
+    "static/css/4.ea3dbbf2.chunk.css": "/static/css/4.ea3dbbf2.chunk.css",
+    "static/js/4.2f49edbd.chunk.js": "/static/js/4.2f49edbd.chunk.js",
+    "static/js/4.2f49edbd.chunk.js.map": "/static/js/4.2f49edbd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4ba5b2795ba3b2e7f6c70f1264c386ef.js": "/precache-manifest.4ba5b2795ba3b2e7f6c70f1264c386ef.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.3a26ebde.chunk.css.map": "/static/css/3.3a26ebde.chunk.css.map",
+    "static/css/4.ea3dbbf2.chunk.css.map": "/static/css/4.ea3dbbf2.chunk.css.map",
+    "static/css/main.4a1a03d7.chunk.css.map": "/static/css/main.4a1a03d7.chunk.css.map",
+    "static/js/2.1be86424.chunk.js.LICENSE.txt": "/static/js/2.1be86424.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/intelSoftwareInnovatorLogo.webp": "/static/media/intelSoftwareInnovatorLogo.621d97a8.webp",
+    "static/media/jamiaHamdardLogo.png": "/static/media/jamiaHamdardLogo.bd4c51da.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/orientalCollegeLogo.png": "/static/media/orientalCollegeLogo.96e4d4bf.png",
+    "static/media/pyDataGlobalLogo.png": "/static/media/pyDataGlobalLogo.d2e542b0.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.39eff4a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.516ddbfe.js",
+    "static/js/2.1be86424.chunk.js",
+    "static/css/main.4a1a03d7.chunk.css",
+    "static/js/main.ef291c28.chunk.js"
+  ]
+}
