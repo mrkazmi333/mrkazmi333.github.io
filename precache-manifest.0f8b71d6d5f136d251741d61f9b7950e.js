@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c95b0e722fce1f4287a6bc625c2881a6",
+    "revision": "244b91654e905f076fb39c16241e4258",
     "url": "/index.html"
   },
   {
-    "revision": "a28f86b7725837a2b5b7",
+    "revision": "8c6707958638a37138b3",
     "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "8f5beac6b1341710c09f",
+    "revision": "62b4a4c8bd1c2e6be500",
     "url": "/static/css/4.ea3dbbf2.chunk.css"
   },
   {
-    "revision": "72df2cfb553a5afb61fe",
+    "revision": "a25d00ecc8566b1cee8d",
     "url": "/static/css/main.4a1a03d7.chunk.css"
   },
   {
-    "revision": "7561d104032e2324308e",
-    "url": "/static/js/2.1be86424.chunk.js"
+    "revision": "2ff5d6c9cb510c33af5c",
+    "url": "/static/js/2.78ba8e2b.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.1be86424.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.78ba8e2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a28f86b7725837a2b5b7",
-    "url": "/static/js/3.e63b2a01.chunk.js"
+    "revision": "8c6707958638a37138b3",
+    "url": "/static/js/3.06c31fe5.chunk.js"
   },
   {
-    "revision": "8f5beac6b1341710c09f",
-    "url": "/static/js/4.2f49edbd.chunk.js"
+    "revision": "62b4a4c8bd1c2e6be500",
+    "url": "/static/js/4.0831910f.chunk.js"
   },
   {
-    "revision": "72df2cfb553a5afb61fe",
-    "url": "/static/js/main.fa9d8256.chunk.js"
+    "revision": "a25d00ecc8566b1cee8d",
+    "url": "/static/js/main.64b8ff5c.chunk.js"
   },
   {
-    "revision": "de3f8db4f8c5410433ef",
-    "url": "/static/js/runtime-main.516ddbfe.js"
+    "revision": "7eed10078d88a481817e",
+    "url": "/static/js/runtime-main.1c599fc4.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,16 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
+  },
+  {
+    "revision": "8af76be78398f4065175519fa01903f2",
+    "url": "/static/media/ecomShop.8af76be7.png"
+  },
+  {
+    "revision": "9f5c7ce0121f4a81fadb728306754643",
+    "url": "/static/media/idiosPage.9f5c7ce0.png"
   },
   {
     "revision": "621d97a83e3355e2544bd8cba2341aed",
@@ -74,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "96e4d4bfce5109433ad725f464fc7f64",
     "url": "/static/media/orientalCollegeLogo.96e4d4bf.png"
+  },
+  {
+    "revision": "4dc8c44eb8520b9c342a19838bd75b7e",
+    "url": "/static/media/pyDataDelhiLogo.4dc8c44e.png"
   },
   {
     "revision": "d2e542b0015c443070967c9e291339cf",
